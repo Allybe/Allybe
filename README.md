@@ -1,5 +1,5 @@
 ## Hi, I'm Allison!
-I'm a full stack web devloper that does a ton of other things too.
+I'm a full stack web developer that does a ton of other things too.
 
 ## Stuff I'm Workin' On
 
