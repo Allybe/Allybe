@@ -6,10 +6,6 @@ I'm a full stack web developer that does a ton of other things too.
   ### ⭐ [Discord Bot Builder](https://github.com/Allybe/Discord-Bot-Builder) ⭐
   
   A neat project that makes making your own custom Discord bots much easier.
- 
-  ### 🖌️ [Paint Program](https://github.com/Allybe/Paint-Program) 🖌️
-  
-  A powerful painting website that is meant for touchscreen devices. This isn't my top priority project but I will try to get it done. 
   
  ### Languages I know
  
